@@ -60,5 +60,4 @@ class EditUser extends LitElement {
 customElements.define('edit-user', EditUser);
 
 
-
 //Much of this code was heavily inspired by the project and IMT2291 EXAM V2020
